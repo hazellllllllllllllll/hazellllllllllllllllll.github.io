@@ -1,0 +1,7 @@
+<form method="get" id="myForm">
+ 身高（公分） <input type="text" name="height" /><br />
+ 體重（公斤） <input type="twxt" name="weight" /><br />
+ 性別 <input type="radio" name="sex"
+ </form>
+
+ <script>
